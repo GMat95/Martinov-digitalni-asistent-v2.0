@@ -10,7 +10,7 @@ def generate_xlsx_file(newFolderName, newFolderPath, projectName, projectNum, da
     wb = load_workbook(filename='template.xlsx')
     img = Image('tmtblack.png')
     img.height = 60
-    img.width = 300
+    img.width = 240
     # Select the active sheet
     sheet = wb.active
 

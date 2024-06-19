@@ -1,4 +1,5 @@
-('C:\\Users\\TMT-IT-NTB-05\\Desktop\\v2\\build\\tmtAutoUpdate\\PYZ-00.pyz',
+('C:\\Users\\TMT-IT-NTB-05\\Desktop\\Martinov digitalni asistent '
+ 'v2.0\\build\\tmtAutoUpdate\\PYZ-00.pyz',
  [('PIL',
    'C:\\Users\\TMT-IT-NTB-05\\miniconda3\\envs\\tmtAutomation\\Lib\\site-packages\\PIL\\__init__.py',
    'PYMODULE'),
@@ -525,7 +526,8 @@
    'C:\\Users\\TMT-IT-NTB-05\\miniconda3\\envs\\tmtAutomation\\Lib\\ftplib.py',
    'PYMODULE'),
   ('generate_xlsx',
-   'C:\\Users\\TMT-IT-NTB-05\\Desktop\\v2\\generate_xlsx.py',
+   'C:\\Users\\TMT-IT-NTB-05\\Desktop\\Martinov digitalni asistent '
+   'v2.0\\generate_xlsx.py',
    'PYMODULE'),
   ('getopt',
    'C:\\Users\\TMT-IT-NTB-05\\miniconda3\\envs\\tmtAutomation\\Lib\\getopt.py',
